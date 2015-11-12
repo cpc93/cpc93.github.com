@@ -46,8 +46,8 @@ header {
 
 }
 .tab-wrapper{
-  margin: 150px 200px 200px 200px;
-      border-top: 1px solid rgba(0,0,0,.25);
+  margin: 120px 200px 30px 200px;
+      border-top: #9d8235 1px solid;
       padding-top: 40px;
 
 
@@ -80,6 +80,7 @@ color:#90883b;
  font-style: italic;
  font-size: 28px;
  color: #9d8235;
+ height: 70px;
 
 }
 
@@ -94,6 +95,7 @@ color:#90883b;
   width: 1000px ;
   margin-left: auto ;
   margin-right: auto ;
+  height: 1075px;
 
 }
 
@@ -102,7 +104,7 @@ color:#90883b;
   text-align: center;
   line-height: 50px;
   float: left;
-  display: inline-block;
+
   border-right: 1px solid rgba(0,0,0,.25);
 
 }
@@ -112,22 +114,22 @@ color:#90883b;
   text-align: center;
   line-height: 50px;
   float: left;
-  display: inline-block;
+
 }
-.row {
+.row1 {
 
-
+  list-style-type: none;
   text-align: center;
   line-height: 50px;
   float: left;
-  display: inline-block;
+;
 }
 .row2 {
 
   list-style-type: none;
   text-align: center;
   line-height: 50px;
-  float: left;
+  float-left: 200px;
 
 }
 .price {
