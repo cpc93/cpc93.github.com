@@ -124,11 +124,11 @@ color:#90883b;
 }
 .row2 {
 
-
+  list-style-type: none;
   text-align: center;
   line-height: 50px;
   float: left;
-  display: inline-block;
+
 }
 .price {
   font-family: Georgia;
@@ -145,8 +145,8 @@ color:#90883b;
 }
 
 .end {
-  margin-top: 800px;
+ clear: both;
   background-color: #f0f0f0;
-  border-top: #9d8235;
+  border-top: #9d8235 1px solid;
   text-align: center;
 }
