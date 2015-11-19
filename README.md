@@ -3,7 +3,7 @@
 Design for the Web
 
 Projects
-* [Phillies vs Red Sox](http://cpc93.github.io/phillies "Phillies vs Red Sox")
+* [Phillies vs Red Sox](http://cpc93.github.io/Phillies "Phillies vs Red Sox")
 * [Resume](http://cpc93.github.io/resume "Resume") 
 * [Assignment #1](http://cpc93.github.io/Assignment1 "Assignment #1") 
 * [Header](http://cpc93.github.io/header "Header") 
