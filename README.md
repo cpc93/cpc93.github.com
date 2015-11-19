@@ -8,7 +8,7 @@ Projects
 * [Assignment #1](http://cpc93.github.io/Assignment1 "Assignment #1") 
 * [Header](http://cpc93.github.io/header "Header") 
 * [Grid](http://cpc93.github.io/grid "Grid") 
-* [Slideshow)](http://cpc93.github.io/slideshow "Slideshow") 
+* [Slideshow](http://cpc93.github.io/slideshow "Slideshow") 
 * [Scroll Events](http://cpc93.github.io/scrolling "Scroll Events") 
 * [Lightbox](http://cpc93.github.io/lightbox "Lightbox")
 * [Webfonts](http://cpc93.github.io/web-fonts "Webfonts")
