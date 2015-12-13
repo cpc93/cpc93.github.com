@@ -12,4 +12,4 @@ Projects
 * [Scroll Events](http://cpc93.github.io/scrolling "Scroll Events") 
 * [Lightbox](http://cpc93.github.io/lightbox "Lightbox")
 * [Webfonts](http://cpc93.github.io/web-fonts "Webfonts")
-* [Assignment #2 - Portfolio Website](http://cpc93.github.io/assignment2 "Assignment #2")  
+* [Assignment #2 - Portfolio Website](http://cpc93.github.io/Assignment2 "Assignment #2")  
